@@ -2,7 +2,7 @@
 
 ## проект для ознакомления с git/GitHub
 ----
-[Ссылка на автора] (https://vk.com/zap0mn1 "VK profile")  
+[Автор] (https://vk.com/zap0mn1 "VK profile")  
 ----
 Проект будет удален
 
